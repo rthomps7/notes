@@ -1,0 +1,19 @@
+{
+  "preset": "airbnb",
+  "validateLineBreaks": "LF",
+  "validateIndentation": 2,
+  "maximumLineLength": {
+    "value" : 80,
+    "allowUrlComments" : true,
+    "allowRegex" : true
+  },
+  "safeContextKeyword": ["self"],
+  "fileExtensions": [".js"],
+  "excludeFiles": [
+    "node_modules/**",
+    "app/frontend/bower/**",
+    "app/frontend/main-built.js",
+    "config/**",
+    "app/frontend/contexts/_prod/**"
+  ]
+}

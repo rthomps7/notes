@@ -1,0 +1,20 @@
+{
+  "name": "boilerplate",
+  "dependencies": {
+    "normalize.css": "~3.0.1",
+    "html5-boilerplate": "~4.3.0",
+    "crud": "^2.1.0",
+    "requirejs": "~2.1.14",
+    "almond": "~0.3.0",
+    "ractive": "~0.7.0",
+    "debug": "visionmedia/debug#~2.0.0",
+    "director": "~1.2.2",
+    "requirejs-loader-plugin": "~1.0.0",
+    "rv": "~0.1.8",
+    "jquery": "~2.1.4",
+    "lodash": "~3.9.3",
+    "ractive-uhray-events": "~1.0.0",
+    "ractive-extensions-validator": "~2.0.3",
+    "ractive-extensions-crud": "~1.1.0"
+  }
+}
